@@ -1,5 +1,5 @@
 # Post-pruning MedSAM
-Based on MedSAM: Segment Anything in Medical Images and A Fast Post-Training Pruning Framework for Transformers
+Based on [MedSAM: Segment Anything in Medical Images](https://github.com/bowang-lab/MedSAM) and [A Fast Post-Training Pruning Framework for Transformers](https://github.com/WoosukKwon/retraining-free-pruning/tree/main)
 
 ## Reference
 
